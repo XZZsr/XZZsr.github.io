@@ -1,0 +1,50 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,village_png,role1_png,startBtn_png,close_png,leaftexiao_json,leaftexiao_png,bg_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "imgs/village.png",
+			"type": "image",
+			"name": "village_png"
+		},
+		{
+			"url": "imgs/role1.png",
+			"type": "image",
+			"name": "role1_png"
+		},
+		{
+			"url": "imgs/startBtn.png",
+			"type": "image",
+			"name": "startBtn_png"
+		},
+		{
+			"url": "imgs/close.png",
+			"type": "image",
+			"name": "close_png"
+		},
+		{
+			"url": "leaftexiao.json",
+			"type": "json",
+			"name": "leaftexiao_json"
+		},
+		{
+			"url": "imgs/leaftexiao.png",
+			"type": "image",
+			"name": "leaftexiao_png"
+		},
+		{
+			"url": "imgs/bg.png",
+			"type": "image",
+			"name": "bg_png"
+		}
+	]
+}

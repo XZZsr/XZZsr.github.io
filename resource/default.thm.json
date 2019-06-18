@@ -1,0 +1,17 @@
+{
+    "skins": {
+        "RankScene": "resource/scene/RankScene.exml",
+        "HomeScene": "resource/scene/HomeScene.exml",
+        "ModalComponent": "resource/component/ModalComponent.exml",
+        "GameScene": "resource/scene/GameScene.exml",
+        "CreateData": "resource/scene/CreateMap.exml"
+    },
+    "autoGenerateExmlsList": true,
+    "exmls": [
+        "resource/component/ModalComponent.exml",
+        "resource/scene/GameScene.exml",
+        "resource/scene/HomeScene.exml",
+        "resource/scene/RankScene.exml"
+    ],
+    "path": "resource/default.thm.json"
+}
